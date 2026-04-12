@@ -1,0 +1,9 @@
+node_modules/
+frontend/node_modules/
+.next/
+dist/
+build/
+node_modules/
+frontend/node_modules/
+.next/
+dist/
