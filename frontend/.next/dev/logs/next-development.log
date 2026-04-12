@@ -1,0 +1,7 @@
+{"timestamp":"00:00:00.642","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:00.950","source":"Server","level":"ERROR","message":"⨯ Error: The default export is not a React Component in page: \"/download\""}
+{"timestamp":"00:00:00.987","source":"Server","level":"ERROR","message":"⨯ Error: The default export is not a React Component in page: \"/download\""}
+{"timestamp":"00:00:01.124","source":"Browser","level":"ERROR","message":"uncaughtError: Error: The default export is not a React Component in page: \"/download\""}
+{"timestamp":"00:00:01.171","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: The default export is not a React Component in page: \\\"/download\\\"\\u001b[39m\""}
+{"timestamp":"00:00:01.171","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: The default export is not a React Component in page: \"/download\"\u001b[39m"}
+{"timestamp":"00:01:35.620","source":"Server","level":"LOG","message":"✓ Compiled in 121ms"}
