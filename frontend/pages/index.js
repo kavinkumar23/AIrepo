@@ -12,6 +12,7 @@ function TopBar({ onSignup }) {
         padding: "0 60px", // 👈 increased padding (fix)
         borderBottom: "1px solid #eee",
         background: "white",
+
         position: "sticky",
         top: 0,
         zIndex: 1000,

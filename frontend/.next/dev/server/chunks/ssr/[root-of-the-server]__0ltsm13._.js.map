@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/kavinkumar/Downloads/ai-summarizer-saas/frontend/pages/success.js"],"sourcesContent":["import { useEffect } from \"react\";\n\nexport default function Success() {\n  useEffect(() => {\n    localStorage.setItem(\"paid\", \"true\");\n\n    // auto redirect after 2 seconds\n    setTimeout(() => {\n      window.location.href = \"https://chromewebstore.google.com/\";\n    }, 2000);\n  }, []);\n\n  return (\n    <div>\n      <h2>Payment Successful 🎉</h2>\n      <p>Redirecting to Chrome Web Store...</p>\n    </div>\n  );\n}"],"names":["Success","localStorage","setItem","setTimeout","window","location","href"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,IAAA,gHAAS,EAAC;QACRC,aAAaC,OAAO,CAAC,QAAQ;QAE7B,gCAAgC;QAChCC,WAAW;YACTC,OAAOC,QAAQ,CAACC,IAAI,GAAG;QACzB,GAAG;IACL,GAAG,EAAE;IAEL,qBACE,qKAAC;;0BACC,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
-}
