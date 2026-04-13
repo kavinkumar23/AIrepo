@@ -1,12 +1,12 @@
 __turbopack_load_page_chunks__("/", [
-  "static/chunks/007i_next_dist_compiled_0up3b~p._.js",
-  "static/chunks/007i_next_dist_shared_lib_0c~hr.o._.js",
-  "static/chunks/007i_next_dist_client_134xy2_._.js",
-  "static/chunks/007i_next_dist_069huim._.js",
-  "static/chunks/007i_react-dom_0o4bres._.js",
-  "static/chunks/007i_@firebase_auth_dist_esm_0-cojbw._.js",
-  "static/chunks/007i_0uifvi7._.js",
-  "static/chunks/[root-of-the-server]__0bpwwf5._.js",
-  "static/chunks/Downloads_ai-summarizer-saas_frontend_pages_index_07xvfw~._.js",
-  "static/chunks/turbopack-Downloads_ai-summarizer-saas_frontend_pages_index_046nz-4._.js"
+  "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
+  "static/chunks/node_modules_next_dist_shared_lib_8bac8163._.js",
+  "static/chunks/node_modules_next_dist_client_5a8a528e._.js",
+  "static/chunks/node_modules_next_dist_75b597d7._.js",
+  "static/chunks/node_modules_react-dom_4411d9bd._.js",
+  "static/chunks/node_modules_@firebase_auth_dist_esm_8c303018._.js",
+  "static/chunks/node_modules_a1d5f965._.js",
+  "static/chunks/[root-of-the-server]__43c927f4._.js",
+  "static/chunks/Downloads_ai-summarizer-saas_frontend_pages_index_2da965e7._.js",
+  "static/chunks/turbopack-Downloads_ai-summarizer-saas_frontend_pages_index_ed726301._.js"
 ])

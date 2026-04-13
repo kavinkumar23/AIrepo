@@ -1,60 +1,37 @@
 globalThis.__BUILD_MANIFEST = {
   "pages": {
     "/": [
-      "static/chunks/007i_next_dist_compiled_0up3b~p._.js",
-      "static/chunks/007i_next_dist_shared_lib_0c~hr.o._.js",
-      "static/chunks/007i_next_dist_client_134xy2_._.js",
-      "static/chunks/007i_next_dist_069huim._.js",
-      "static/chunks/007i_react-dom_0o4bres._.js",
-      "static/chunks/007i_@firebase_auth_dist_esm_0-cojbw._.js",
-      "static/chunks/007i_0uifvi7._.js",
-      "static/chunks/[root-of-the-server]__0bpwwf5._.js",
-      "static/chunks/Downloads_ai-summarizer-saas_frontend_pages_index_07xvfw~._.js",
-      "static/chunks/turbopack-Downloads_ai-summarizer-saas_frontend_pages_index_046nz-4._.js"
+      "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_8bac8163._.js",
+      "static/chunks/node_modules_next_dist_client_5a8a528e._.js",
+      "static/chunks/node_modules_next_dist_75b597d7._.js",
+      "static/chunks/node_modules_react-dom_4411d9bd._.js",
+      "static/chunks/node_modules_@firebase_auth_dist_esm_8c303018._.js",
+      "static/chunks/node_modules_a1d5f965._.js",
+      "static/chunks/[root-of-the-server]__43c927f4._.js",
+      "static/chunks/Downloads_ai-summarizer-saas_frontend_pages_index_2da965e7._.js",
+      "static/chunks/turbopack-Downloads_ai-summarizer-saas_frontend_pages_index_ed726301._.js"
     ],
     "/_app": [
-      "static/chunks/007i_next_dist_compiled_0up3b~p._.js",
-      "static/chunks/007i_next_dist_shared_lib_0c~hr.o._.js",
-      "static/chunks/007i_next_dist_client_134xy2_._.js",
-      "static/chunks/007i_next_dist_02rd.sl._.js",
-      "static/chunks/007i_next_app_01wf-du.js",
-      "static/chunks/[next]_entry_page-loader_ts_0c_4a02._.js",
-      "static/chunks/007i_react-dom_0o4bres._.js",
-      "static/chunks/007i_09czt6t._.js",
-      "static/chunks/[root-of-the-server]__05-c3ni._.js",
-      "static/chunks/Downloads_ai-summarizer-saas_frontend_pages__app_07xvfw~._.js",
-      "static/chunks/turbopack-Downloads_ai-summarizer-saas_frontend_pages__app_0wiimvm._.js"
-    ],
-    "/_error": [
-      "static/chunks/007i_next_dist_compiled_0up3b~p._.js",
-      "static/chunks/007i_next_dist_shared_lib_0plo7h8._.js",
-      "static/chunks/007i_next_dist_client_134xy2_._.js",
-      "static/chunks/007i_next_dist_0rycxr~._.js",
-      "static/chunks/[next]_entry_page-loader_ts_052s~rq._.js",
-      "static/chunks/007i_react-dom_0o4bres._.js",
-      "static/chunks/007i_09czt6t._.js",
-      "static/chunks/[root-of-the-server]__0jyn.cy._.js",
-      "static/chunks/Downloads_ai-summarizer-saas_frontend_pages__error_07xvfw~._.js",
-      "static/chunks/turbopack-Downloads_ai-summarizer-saas_frontend_pages__error_0man_qq._.js"
-    ],
-    "/download": [
-      "static/chunks/007i_next_dist_compiled_0up3b~p._.js",
-      "static/chunks/007i_next_dist_shared_lib_0c~hr.o._.js",
-      "static/chunks/007i_next_dist_client_134xy2_._.js",
-      "static/chunks/007i_next_dist_069huim._.js",
-      "static/chunks/007i_react-dom_0o4bres._.js",
-      "static/chunks/007i_09czt6t._.js",
-      "static/chunks/[root-of-the-server]__0xefwn5._.js",
-      "static/chunks/Downloads_ai-summarizer-saas_frontend_pages_download_07xvfw~._.js",
-      "static/chunks/turbopack-Downloads_ai-summarizer-saas_frontend_pages_download_0s63wvm._.js"
+      "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_8bac8163._.js",
+      "static/chunks/node_modules_next_dist_client_5a8a528e._.js",
+      "static/chunks/node_modules_next_dist_b3fb3b5f._.js",
+      "static/chunks/node_modules_next_app_72f3d36f.js",
+      "static/chunks/[next]_entry_page-loader_ts_742e4b53._.js",
+      "static/chunks/node_modules_react-dom_4411d9bd._.js",
+      "static/chunks/node_modules_bfa2344f._.js",
+      "static/chunks/[root-of-the-server]__22883287._.js",
+      "static/chunks/Downloads_ai-summarizer-saas_frontend_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Downloads_ai-summarizer-saas_frontend_pages__app_df7e7028._.js"
     ]
   },
   "devFiles": [],
   "polyfillFiles": [],
-  "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js",
-    "static/development/_clientMiddlewareManifest.js"
-  ],
+  "lowPriorityFiles": [],
   "rootMainFiles": []
 };
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];
