@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 
 const app = initializeApp({
-    apiKey: "AIzaSyANoC_rGJOUS9PJHmUT1q77Tpy5gmBhs9Q",
-  authDomain: "aisummarizer-a901f.firebaseapp.com",
-  projectId: "aisummarizer-a901f",
-  storageBucket: "aisummarizer-a901f.firebasestorage.app",
-  messagingSenderId: "894635171048",
-  appId: "1:894635171048:web:a222b230065f3c3cbb7d5d",
-  measurementId: "G-ZWSDRR85DQ"
+     apiKey: "AIzaSyC4BzptnxsSL56AJKPUdWygTOXmbcQAicQ",
+  authDomain: "airepo-f5cef.firebaseapp.com",
+  projectId: "airepo-f5cef",
+  storageBucket: "airepo-f5cef.firebasestorage.app",
+  messagingSenderId: "220037355048",
+  appId: "1:220037355048:web:71cb77683fe94ec9ac471d",
+  measurementId: "G-V3EQ167ZZZ"
 });
 
 const auth = getAuth(app);
