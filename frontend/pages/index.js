@@ -57,10 +57,8 @@ export default function Home() {
     try {
       const loggedInUser = await login();
       setUser(loggedInUser);
-
       const token = await loggedInUser.getIdToken(true);
-
-      await fetch("http://localhost:5050/auth/sync-user", {
+      await fetch("https://airepo-production-9305.up.railway.app/auth/sync-user", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -85,11 +83,9 @@ export default function Home() {
         currentUser = await login();
         setUser(currentUser);
       }
-
       const token = await currentUser.getIdToken();
-
       const res = await fetch(
-        "http://localhost:5050/create-checkout-session",
+        "https://airepo-production-9305.up.railway.app/create-checkout-session",
         {
           method: "POST",
           headers: {
