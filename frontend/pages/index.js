@@ -76,12 +76,10 @@ export default function Home() {
   const handlePay = async () => {
     try {
       setLoading(true);
-
       let currentUser = user;
-
       if (!currentUser) {
-        currentUser = await login();
-        setUser(currentUser);
+           await handleSignup();
+           currentUser = user;
       }
       const token = await currentUser.getIdToken();
       const res = await fetch(
