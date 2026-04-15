@@ -50,7 +50,7 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [isYearly, setIsYearly] = useState(false);
 
-  const price = isYearly ? 12 : 1;
+  const price = isYearly ? 10 : 1;
 
   /* 🔐 Signup/Login */
   const handleSignup = async () => {
